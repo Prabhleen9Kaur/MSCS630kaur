@@ -1,0 +1,7 @@
+7 pts
+
+Functionality: pass
+Style check: 
+- there is incorrect indentation
+- the file header and other headers are missing
+- not properly documented
