@@ -1,0 +1,20 @@
+40 pts
+
+Prabs,
+
+About your programs...
+
+Functionality
+
+- Could not test functionality because programs cannot be compiled. Too many
+  errors!  -10pts
+
+
+Style Check
+
+- All programs follow the style guidelines. Good job!
+
+
+Peace,
+
+- Dr. Rivas
